@@ -11,7 +11,8 @@
 📫 Me encontre em: carloseduardoavila035@gmail.com;<br>
 🎸 Nas horas vagas? Toco uma guitarra desafinada, quebro uns códigos e vou para igreja;<br>
 🎯 Missão: Chegar ao céu e escrever código que meu eu do futuro entenda; <br>
-
+<br>
+###
 
 <h2 align="left">Stats</h2>
 
