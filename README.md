@@ -2,9 +2,9 @@
 
 <h2>Who am I?</h2>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v" width="350" height="300" align="right"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v" width="300" height="250" align="right"/>
 
-<h3>👋 Olá! Eu sou o Carlos Eduardo</h3>
+👋 Olá! Eu sou o Carlos Eduardo
 🧰 Técnico em informática formado pelo IF Goiano - Campus Morrinhos;<br>
 🌱 Atualmente estudante do curso de Tecnólogo em Sistemas para Internet;<br>
 💼 Trabalhando em Oliveira Solar: Projetista de sistemas fotovoltaicos e técnico em informática;<br>
