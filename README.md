@@ -1,4 +1,4 @@
-![Meu GIF](https://imgur.com/IaRxgGO)
+![Meu GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJmbmFrbzluYXpxenFkOHUxMGF6N282b2QxYndqYWV0eXdsdjdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wCr27DdyLbVGADZ3VX/giphy.gif)
 <!--
 <h2 align="left">Techs</h2>
 
