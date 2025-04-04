@@ -1,13 +1,21 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJmbmFrbzluYXpxenFkOHUxMGF6N282b2QxYndqYWV0eXdsdjdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wCr27DdyLbVGADZ3VX/giphy.gif" width="850" height="350" />
 <h2 align="left">Who am I?</h2>
 
-###
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  
+  <div>
+    <h3>👋 Olá! Eu sou o Carlos Eduardo</h3>
+    🧰 Técnico em informática formado pelo IF Goiano - Campus Morrinhos;<br>
+    🌱 Atualmente estudante do curso de Tecnólogo em Sistemas para Internet;<br>
+    💼 Trabalhando em Oliveira Solar: Projetista de sistemas fotovoltaicos e técnico em informática;<br>
+    📫 Me encontre em: carloseduardoavila035@gmail.com;<br>
+    🎸 Nas horas vagas? Toco uma guitarra desafinada, quebro uns códigos e vou para igreja;<br>
+    🎯 Missão: Chegar ao céu e escrever código que meu eu do futuro entenda;
+  </div>
 
-<p align="left" width="300">
-### 👋 Olá! Eu sou o Carlos Eduardo<br><br>🧰 Técnico em informática formado pelo IF Goiano - Campus Morrinhos;<br>🌱 Atualmente estudante do curso de Tecnólogo em Sistemas para Internet;  <br>💼 Trabalhando em Oliveira Solar: Projetista de sistemas fotovoltaicos e técnico em informática;<br>📫 Me encontre em: carloseduardoavila035@gmail.com;<br>🎸 Nas horas vagas? Toco uma guitarra desafinada, quebro uns códigos e vou para igreja;<br>🎯 Missão: Chegar ao céu e escrever código que meu eu do futuro entenda;
-</p><img src="https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v" width="350" height="300" align="right"/>
-
-###
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v" width="350" height="300"/>
+  
+</div>
 
 <h2 align="left">Stats</h2>
 
