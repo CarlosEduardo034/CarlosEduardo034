@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://imgur.com/a/wvLNqbE">
+![Meu GIF](https://imgur.com/IaRxgGO)
 <!--
 <h2 align="left">Techs</h2>
 
