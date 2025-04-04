@@ -1,4 +1,4 @@
-Criando um perfil
+<img align="right" alt="Coding" width="400" src="https://imgur.com/a/wvLNqbE">
 <!--
 <h2 align="left">Techs</h2>
 
