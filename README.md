@@ -12,10 +12,10 @@
 🎸 Nas horas vagas? Toco uma guitarra desafinada, quebro uns códigos e vou para igreja;<br>
 🎯 Missão: Chegar ao céu e escrever código que meu eu do futuro entenda; <br>
 <br>
-###
+
+
 
 <h2 align="left">Stats</h2>
-<img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM3OTY0NDQsIm5iZiI6MTc0Mzc5NjE0NCwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA0VDE5NDkwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkODBlMDBlYmE5Y2VmOWU1Yzc1YTQ4YjBhYzYyZmNhOTNmZTViNWM0ZTk1Yzg1N2E4MjViY2ZjMDRhMGVlZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JZy6kAV2n5WQ0GMLS_q0l2LTfomMEWehuitfo4sQwVw" alt="Descrição" width="300" heigth="300" />
 
 
 <div align="right">
@@ -24,11 +24,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardo034&radius=16&theme=vue&area=true&order=5&hide_border=true" height="280" alt="activity-graph graph"  />
 </div>
 
-###
 
 <h2 align="left">Techs</h2>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
@@ -48,10 +46,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
 
-###
 
 <p align="left"></p>
-
-###
 
 
