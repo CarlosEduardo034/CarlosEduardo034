@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJmbmFrbzluYXpxenFkOHUxMGF6N282b2QxYndqYWV0eXdsdjdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wCr27DdyLbVGADZ3VX/giphy.gif" width="850" height="400" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJmbmFrbzluYXpxenFkOHUxMGF6N282b2QxYndqYWV0eXdsdjdnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wCr27DdyLbVGADZ3VX/giphy.gif" width="850" height="350" />
 <!--
 <h2 align="left">Techs</h2>
 
