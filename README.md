@@ -18,10 +18,6 @@
 
 ###
 
-<img src="https://www.google.com/imgres?q=gato%20meme&imgurl=https%3A%2F%2Fpt.quizur.com%2F_image%3Fhref%3Dhttps%3A%2F%2Fimg.quizur.com%2Ff%2Fimg648efbd5b00b28.10275519.jpg%3FlastEdited%3D1687092187%26w%3D600%26h%3D600%26f%3Dwebp&imgrefurl=https%3A%2F%2Fpt.quizur.com%2Fquiz%2Fque-meme-de-gato-seria-voce-UeyV&docid=XoVZ0DIBklamAM&tbnid=3YNvaU1BcxWNvM&vet=12ahUKEwjx28z5j7-MAxU6rJUCHQTzDpIQM3oECFQQAA..i&w=600&h=450&hcb=2&ved=2ahUKEwjx28z5j7-MAxU6rJUCHQTzDpIQM3oECFQQAA" width="200" alt="Minha imagem"/>
-
-###
-
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosEduardo034&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosEduardo034&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="140" alt="languages graph"  />
