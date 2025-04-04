@@ -15,7 +15,7 @@
        </p>
     </td>
     <td>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v" width="350" height="300"/>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v" width="350" height="350"/>
     </td>
   </tr>
 </table>
