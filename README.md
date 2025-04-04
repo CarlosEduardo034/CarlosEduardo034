@@ -18,8 +18,7 @@
 
 ###
 
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FGatos%2Fcomments%2F1ae7qgi%2Fmeu_gato_%25C3%25A9_praticamente_o_gato_do_meme%2F&psig=AOvVaw3qEL4J23-JpOUD6fv8VFho&ust=1743881865880000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiRu6qQv4wDFQAAAAAdAAAAABAE" width="200" alt="Minha imagem"/>
+<img src="https://www.google.com/imgres?q=gato%20meme&imgurl=https%3A%2F%2Fpt.quizur.com%2F_image%3Fhref%3Dhttps%3A%2F%2Fimg.quizur.com%2Ff%2Fimg648efbd5b00b28.10275519.jpg%3FlastEdited%3D1687092187%26w%3D600%26h%3D600%26f%3Dwebp&imgrefurl=https%3A%2F%2Fpt.quizur.com%2Fquiz%2Fque-meme-de-gato-seria-voce-UeyV&docid=XoVZ0DIBklamAM&tbnid=3YNvaU1BcxWNvM&vet=12ahUKEwjx28z5j7-MAxU6rJUCHQTzDpIQM3oECFQQAA..i&w=600&h=450&hcb=2&ved=2ahUKEwjx28z5j7-MAxU6rJUCHQTzDpIQM3oECFQQAA" width="200" alt="Minha imagem"/>
 
 ###
 
