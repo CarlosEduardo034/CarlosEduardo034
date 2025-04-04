@@ -47,5 +47,6 @@
 <p align="left"></p>
 
 ###
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v" width="400" height="100" />
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v" width="800" height="500" />
 
