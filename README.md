@@ -47,3 +47,8 @@
 <p align="left"></p>
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j89pzzo2rpghmfn01g7tq151v&unique={true|1|on|yes})
