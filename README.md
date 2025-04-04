@@ -2,7 +2,7 @@
 <h2 align="left">Who am I?</h2>
 
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
       <h3>👋 Olá! Eu sou o Carlos Eduardo</h3>
