@@ -13,10 +13,7 @@
 🎯 Missão: Chegar ao céu e escrever código que meu eu do futuro entenda; <br>
 <br>
 
-
-
 <h2 align="left">Stats</h2>
-
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosEduardo034&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
@@ -24,9 +21,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardo034&radius=16&theme=vue&area=true&order=5&hide_border=true" height="280" alt="activity-graph graph"  />
 </div>
 
-
 <h2 align="left">Techs</h2>
-
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
@@ -46,7 +41,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
 
-
 <p align="left"></p>
 
+<img src="https://raw.githubusercontent.com/carloseduardo034/carloseduardo034/output/snake.svg" alt="Snake animation" />
 
