@@ -43,7 +43,5 @@
 
 <p align="left"></p>
 
-<img src="https://raw.githubusercontent.com/carloseduardo034/carloseduardo034/output/snake.svg" alt="Snake animation" />
-
-###
+### teste
 
