@@ -41,5 +41,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
 <br>
-<p>⚙️Atualmente desenvolvendo uma casa de apostas, com HTML, CSS, JS, PHP e Mysql</p>
+<p>⚙️Atualmente...</p>
+<p>- Desenvolvendo uma casa de apostas, com HTML, CSS, JS, PHP e Mysql</p>
+<p>- Estuando React</p>
+<p>...</p>
 
