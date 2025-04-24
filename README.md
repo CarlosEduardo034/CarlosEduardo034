@@ -43,6 +43,7 @@
 <br>
 <p>⚙️Atualmente...</p>
 <p>- Desenvolvendo uma casa de apostas, com HTML, CSS, JS, PHP e Mysql</p>
+<p>- Desenvolvendo um Caderno Online, com React no front e PHP no back</p>
 <p>- Estuando React</p>
 <p>...</p>
 
