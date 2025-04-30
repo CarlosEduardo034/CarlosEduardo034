@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GameMaker-000000?logo=yoast&logoColor=white&style=for-the-badge" height="30" alt="gamemaker logo" />
 </div>
 
 <br>
