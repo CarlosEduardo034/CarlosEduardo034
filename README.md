@@ -10,7 +10,7 @@
 💼 Trabalhando em Oliveira Solar: Projetista de sistemas fotovoltaicos e técnico em informática;<br>
 📫 Me encontre em: carloseduardoavila035@gmail.com;<br>
 🎸 Nas horas vagas? Toco uma guitarra desafinada, quebro uns códigos e vou para igreja;<br>
-🎯 Missão: Chegar ao céu e escrever código que meu eu do futuro entenda; <br>
+🎯 Missão: Dois objetivos, Chegar ao céu e escrever código que meu eu do futuro entenda; <br>
 <br>
 
 <h2 align="left">Stats</h2>
