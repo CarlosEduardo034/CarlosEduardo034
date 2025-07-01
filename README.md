@@ -47,16 +47,16 @@
 
 <div align="left">
   <img width="12" />
-  <a href="https://instagram.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
-  <img width="12" />
-  <a href="https://linkedin.com/in/seuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-ov%C3%ADdio-de-%C3%A1vila-072aa236b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <img width="12" />
-  <a href="mailto:seuemail@exemplo.com" target="_blank">
+  <a href="mailto:carloseduardoavila035@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="30" alt="email logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.instagram.com/carloseduardo_av?igsh=MXhsdzFmOG4zZnZ4bA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
   </a>
 </div>
 
