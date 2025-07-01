@@ -43,12 +43,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" />
 </div>
 
-<h2 align="left">🌐 Contato & Redes</h2>
+<h2 align="left">Contatos & Redes</h2>
 
 <div align="left">
-  <a href="https://github.com/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo" />
-  </a>
   <img width="12" />
   <a href="https://linkedin.com/in/seuusuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
