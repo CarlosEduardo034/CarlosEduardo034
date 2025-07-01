@@ -47,12 +47,12 @@
 
 <div align="left">
   <img width="12" />
-  <a href="https://linkedin.com/in/seuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <img width="12" />
   <a href="https://instagram.com/seuusuario" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="instagram logo" />
+  </a>
+  <img width="12" />
+  <a href="https://linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <img width="12" />
   <a href="mailto:seuemail@exemplo.com" target="_blank">
