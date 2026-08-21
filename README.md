@@ -1,6 +1,8 @@
 <h2>Who am I?</h2>
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=j89pzzo2rpghmfn01g7tq151v&count=6&width=390&radius=35&duration=1&album=1&text_color=dbf1f5&artist_color=8fb0d6&meta_color=738396&accent_color=1db985&logo_color=1db954)
+<table>
+<tr>
+<td width="55%">
 
 👋 Olá! Eu sou o Carlos Eduardo; <br>
 🧰 Técnico em informática formado pelo IF Goiano - Campus Morrinhos;<br>
@@ -8,8 +10,17 @@
 💼 Trabalhando em Oliveira Solar: Projetista de sistemas fotovoltaicos e técnico em informática;<br>
 📫 Me encontre em: carloseduardoavila035@gmail.com;<br>
 🎸 Nas horas vagas? Toco uma guitarra desafinada, quebro uns códigos e vou para igreja;<br>
-🎯 Missão: Dois objetivos, Chegar ao céu e escrever código que meu eu do futuro entenda; <br>
-<br>
+🎯 Missão: Dois objetivos, chegar ao céu e escrever código que meu eu do futuro entenda;
+
+</td>
+
+<td width="45%">
+
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=j89pzzo2rpghmfn01g7tq151v&count=6&width=390&radius=35&duration=1&album=1&text_color=dbf1f5&artist_color=8fb0d6&meta_color=738396&accent_color=1db985&logo_color=1db954">
+
+</td>
+</tr>
+</table>
 
 <h2 align="left">Stats</h2>
 
