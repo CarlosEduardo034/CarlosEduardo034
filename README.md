@@ -26,9 +26,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CarlosEduardo034&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" height="160" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardo034&layout=compact&langs_count=5&theme=vue-dark&hide_border=true" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardo034&theme=vue&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 </div>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosEduardo034&theme=vue&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 <h2 align="left">Techs</h2>
 
